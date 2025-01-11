@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1IfyDV7dfBlYxoryEhJEU6zvOrZDfWAay
 
 # Housing Activity Forecast - Dallas Fort Worth Metroplex
-# Data Science
+
 
 # SARIMA - Median Price & Sales
 """
